@@ -1,2 +1,2 @@
-# GPR-Viewer
-Profiles
+# gpr-slice-viewer
+Interactive GPR depth slice viewer
